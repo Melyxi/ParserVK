@@ -1,0 +1,12 @@
+id: 45077230
+sex: 1
+age_of: 18 
+age_to: 25
+relation: 1, 2, 5, 6, 0
+city: 1, 14
+country: 1
+is_closed: False
+can_access_closed: True
+universities: 219
+occupation_university: 219, 2
+can_write_private_message: 1 
